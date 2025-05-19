@@ -19,6 +19,4 @@ My commit messages were just copy/paste with the end changed depending on what p
 
 ### acknowledgements
 
-Thanks to:
-[The Odin Project](https://www.allrecipes.com/) for teaching me the code to be able to do this.
-[allrecipes](https://www.allrecipes.com/) for providing the images and information I used to finish this project. Please check them out!
+Thanks to: -[The Odin Project](https://www.allrecipes.com/) for teaching me the code to be able to do this. -[allrecipes](https://www.allrecipes.com/) for providing the images and information I used to finish this project.
