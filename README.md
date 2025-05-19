@@ -1,9 +1,5 @@
 # odin-recipes
 
-[introduction](#introduction)
-[what I learned](#what-i-learned)
-[what I need to work on](#what-i-need-to-work-on)
-
 ## introduction
 
 As part of The Odin Project course, for this project I had to make a home page that linked to a few web pages containing my favourite recipes. I couldn't find my favourite ones, so I substituted it for what I could make instead.
