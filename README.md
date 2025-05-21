@@ -23,3 +23,4 @@ Thanks to:
 
 - [The Odin Project](https://www.theodinproject.com/) for teaching me the code to be able to do this.
 - [allrecipes](https://www.allrecipes.com/) for providing the images and information I used to finish this project.
+- [Colophon Foundary](https://www.colophon-foundry.org/custom-projects/space-mono) for the font "Space Mono". [Google Fonts](https://fonts.google.com/specimen/Space+Mono)
