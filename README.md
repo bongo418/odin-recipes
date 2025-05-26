@@ -1,25 +1,24 @@
 # odin-recipes
 
-## introduction
+## Introduction
 
-As part of The Odin Project course, for this project I had to make a home page that linked to a few web pages containing my favourite recipes. I couldn't find my favourite ones, so I substituted it for what I could make instead.
+As part of The Odin Project course, I was required to create a home page with links to a few web pages featuring my favorite recipes. I couldn't find my favorites, so I substituted with what I could make instead.
 
-## what I learned about for this project
+I will continue to update these sites as I learn more.
 
-- HTML Boilerplate
-- Headings, paragraphs, bold, italics, and a bit more
-- Lists
-- Links and images
+## What I learned about for this project
 
-I ran into some visual issues concerning ingredients. Particularly when it was 1/2 or 3/4 of something. I searched on the MDN Docs for [superscript element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/sup) and [subscript element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/sub).
+- HTML
+- CSS
 
-### what I need to work on
+I ran into some visual issues concerning ingredients. Particularly when it was half or three-quarters of anything. I looked in the MDN Docs for [superscript element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/sup) and [subscript element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/sub).
 
-My commit messages were just copy/paste with the end changed depending on what page I worked on. I felt there wasn't much I could add to explain it better. I should've also commit more often, for example after adding ingredients and then another one for steps for each page.
+### What I need to work on
 
-### acknowledgements
+- Better commit messages
+- Alignment without Flexbox
 
-Thanks to:
+### Acknowledgements
 
 - [The Odin Project](https://www.theodinproject.com/) for teaching me the code to be able to do this.
 - [allrecipes](https://www.allrecipes.com/) for providing the images and information I used to finish this project.
