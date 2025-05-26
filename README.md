@@ -4,7 +4,7 @@
 
 As part of The Odin Project course, I was required to create a home page with links to a few web pages featuring my favorite recipes. I couldn't find my favorites, so I substituted with what I could make instead.
 
-I will continue to update these sites as I learn more.
+I will continue to update these pages as I learn more.
 
 ## What I learned about for this project
 
