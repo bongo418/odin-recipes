@@ -23,6 +23,10 @@ body {
   border: solid #2e2e2e 2px;
 }
 
+.seperator {
+  border: solid #cdb4db 1px;
+}
+
 .heading {
   font-size: 50px;
   font-family: "Space Mono", monospace;
