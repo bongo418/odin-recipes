@@ -10,8 +10,17 @@
 }
 
 body {
-  background-color: grey;
-  color: white;
+  background-color: #a2d2ff;
+}
+
+.container {
+  background-color: #ffc9dd;
+  width: 500px;
+  /* height: 550px; */
+  padding: 30px;
+  margin: 8% auto;
+  border-radius: 15%;
+  border: solid #2e2e2e 2px;
 }
 
 .heading {
@@ -19,8 +28,7 @@ body {
   font-family: "Space Mono", monospace;
   font-weight: bold;
   text-align: center;
-  margin-top: 30px;
-  margin-bottom: 0px;
+  color: #2e2e2e;
   letter-spacing: 2px;
 }
 
@@ -29,7 +37,8 @@ body {
   font-weight: bold;
   font-size: 25px;
   text-align: center;
-  margin-bottom: 50px;
+  margin-bottom: 25px;
+  color: #2e2e2e;
 }
 
 .ref-links {
@@ -42,11 +51,12 @@ body {
 
 li {
   margin: 20px auto;
+  list-style: none;
 }
 
 .ref-links a {
   text-decoration: none;
-  color: white;
+  color: #1b4965;
   padding: 0px 5px;
 }
 
@@ -62,7 +72,7 @@ li {
 
 .subhead a {
   text-decoration: none;
-  color: darkgreen;
+  color: #0077b6;
   padding: 0px 5px;
 }
 
@@ -75,5 +85,5 @@ li {
 
 .subhead a::after {
   text-decoration: none;
-  color: darkgreen;
+  color: #0077b6;
 }
