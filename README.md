@@ -11,15 +11,14 @@ I will continue to update these pages as I learn more.
 - HTML
 - CSS
 
-I ran into some visual issues concerning ingredients. Particularly when it was half or three-quarters of anything. I looked in the MDN Docs for [superscript element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/sup) and [subscript element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/sub).
-
 ### What I need to work on
 
-- Better commit messages
-- Alignment without Flexbox
+- Commit messages
+- Alignment
 
 ### Acknowledgements
 
-- [The Odin Project](https://www.theodinproject.com/) for teaching me the code to be able to do this.
-- [allrecipes](https://www.allrecipes.com/) for providing the images and information I used to finish this project.
+- [The Odin Project](https://www.theodinproject.com/) for teaching the code.
+- [allrecipes](https://www.allrecipes.com/) for providing the images and information used.
 - [Colophon Foundary](https://www.colophon-foundry.org/custom-projects/space-mono) for the font "Space Mono". [Google Fonts](https://fonts.google.com/specimen/Space+Mono)
+- [MDN Docs](https://developer.mozilla.org/en-US/) for help with [superscript element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/sup) and [subscript element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/sub).
