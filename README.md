@@ -26,4 +26,5 @@ A simple HTML-based recipe site built as part of The Odin Project curriculum.
 
 ## Attribution
 
-Recipes and images are sourced from [Allrecipes](https://www.allrecipes.com/) and linked at the bottom of each recipe page to their respective webpages.
+Recipes were sourced from [Allrecipes](https://www.allrecipes.com/) and linked at the bottom of each recipe page to their respective webpages.  
+All recipe images are AI-generated using Microsoft Copilot and are free to use.
