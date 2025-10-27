@@ -2,6 +2,8 @@
 
 A simple HTML-based recipe site built as part of The Odin Project curriculum.
 
+[View it live on Github Pages](https://bongo418.github.io/odin-recipes/)
+
 ## Project Structure
 
 - `index.html`- Homepage linking to individual recipes
